@@ -1,2 +1,1 @@
-# Project Name : CHAM!!
-#
+# Project Name : CHAM
